@@ -1,5 +1,6 @@
 require 'test_helper'
 #require 'cars_controller'
+# comment
 
 class CarsControllerTest < ActionDispatch::IntegrationTest
   fixtures :cars
